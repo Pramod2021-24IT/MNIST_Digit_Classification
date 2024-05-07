@@ -20,6 +20,7 @@ For this assignment, we will be working on the MNIST database. The MNIST data is
 * Evaluate the model accuracy on the test dataset
 * Predict the digit for the first 5 records of the test dataset
 
+
 ### Features
 
 - User Login & Signup
